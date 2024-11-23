@@ -1,0 +1,6 @@
+*.o
+*.log
+*.png
+*diff.cpp
+rsrch
+*.sublime-workspace
